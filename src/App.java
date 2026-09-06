@@ -21,6 +21,9 @@ public class App {
         if (age == 18) {
             System.out.println("You can drive a car.");
         }
+        if (age == 30) {
+            System.out.println("Enjoy your thirties!");
+        } 
         if (40 <= age && age <= 50) {
             System.out.println("Happy mid-life.");
         }

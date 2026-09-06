@@ -30,5 +30,8 @@ public class App {
         if (age == 100) {
             System.out.println("Congratulations!");
         }
+        if (age > 122) {
+            System.out.println("You are the longest living human in history!");
+        }
     }
 }

@@ -22,13 +22,13 @@ public class App {
             System.out.println("You can drive a car.");
         }
         if (40 <= age && age <= 50) {
-            System.out.println("happy mid-life.");
+            System.out.println("Happy mid-life.");
         }
         if (age % 10 == 0) {
             System.out.println("Anniversary party!!");
         }
         if (age == 100) {
-            System.out.println("congratulations!");
+            System.out.println("Congratulations!");
         }
     }
 }

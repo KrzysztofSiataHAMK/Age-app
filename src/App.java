@@ -36,5 +36,8 @@ public class App {
         if (age > 122) {
             System.out.println("You are the longest living human in history!");
         }
+        if (age % 13 == 0) {
+            System.out.println("Fun fact: your age is divisible by 13!");
+        }
     }
 }
